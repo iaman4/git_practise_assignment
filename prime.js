@@ -1,4 +1,4 @@
-let x = 15;
+let x = 13;
 let sum = 0;
 for(let i = 2;i<=x;i++){
   if(x%i==0){
@@ -6,7 +6,7 @@ for(let i = 2;i<=x;i++){
   }
 }
 if(sum==1){
-  console.log('Yes the number is prime');
+  console.log('is a prime number');
 } else {
-  console.log('No the number is not prime');
+  console.log(' is not a primenumber');
 }

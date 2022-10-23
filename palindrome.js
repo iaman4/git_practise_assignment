@@ -1,4 +1,4 @@
-let word = 'AMAN';
+let word = 'NAMAN';
 let count = 0;
 for(let i = 0;i<word.length;i++){
   if(word[i]==word[word.length-1-i]){
